@@ -1,0 +1,20 @@
+
+Homework 1 Part.
+
+Variable: Es un lugar dnnde reservamos parte de la memoria para guardar ya sea letras, numeros, estados u otros 
+          para utilizarlos mas tarde en nuestro codigo.
+
+Strings:  Es uno de los tipss que puede tener nuestra variable.. en este caso Strings nos indica que es un tipo que 
+	  permite guardar cadenas de texto.
+
+Funciones (argumentos, "return"): una función nos permite ejecutar una serie de instrucciones a las cuales les podemos
+	 asignar ciertos argumentos ya sea datos o variables.  Asi como también pedirle nos de retorne un resultado..
+	 el cual puede ser luego utilizado o mostrado.
+
+Declaraciones If: Esta declaración nos da la  opción de ejecutar diferentes intrucciones de acuerdo a determinados criterios que 
+		nosotros mismos podemos definir.. y de acuerdo a si es verdadero o falso nuestro criterio pude realizar uno u
+		otro conjunto de intrucciones. Esta declaración también nos permite anidar varios de ellos en una misma declaración.
+
+Valores Booleanos: Las variable pueden ser de tipo booleano es decir que pueden adquirir unicamente el estado de verdadero o falso.
+
+
