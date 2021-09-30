@@ -1,0 +1,13 @@
+
+For : Es una instrucción que nos permite ejecutar instrucciones e forma ciclica o por bucles. 
+En su sintaxis se debe definir una variable inicializada, el criterio de finalización y el incremento. 
+luego las instrucciones de lo que queremos se relicen mientras se cumpla el criterio de finalización.
+
+&&: Es una instrucción de tipo logico que se ejecuta si y solo si ambos criterios que se unen por medio
+de esta instrucción se cumple de los contrario continua con la siguiente instrucción. Lo entendemos mejor si lo leemos
+como la conjunción Y.
+
+||:Es una instrucción de tipo Lógico que se ejecuta si cualquiera de los criterios se cumple. Lo podemos entender mejor
+si lo leemos como la conjunción O.
+
+! : Esta instrucción representa una negación.. secumple si los criterios son No XX por ejemplo !== (No igual).
